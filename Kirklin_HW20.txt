@@ -1,0 +1,20 @@
+Project Name: HW20
+Author: Aleah Kirklin
+Date Last Modified: 04/18/19
+
+
+Write the CSS for an id with the following attributes: float to the left of the page, light tan background, Verdana or sans-serif large font, and 20 pixels of padding.
+#money { float: left;
+         background-color: #D2B48C;
+         font-family: Verdana, sans-serif;
+         font-size: 40px;
+         padding: 20px;}
+
+Write the CSS to configure a class that will produce a headline with a dotted line underneath it. Choose a color that you like for the text and dotted line.
+.money { color: #008000	;
+         border-bottom: 1px dotted #0000FF; }
+
+Write the CSS for an id that will be absolutely positioned on a page 20 pixels from the top and 40 pixels from the right. This area should have a light gray background and a solid border.
+#bank { position: absolute;
+        top: 20px;
+        right: 40px}
